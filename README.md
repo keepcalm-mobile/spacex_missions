@@ -1,6 +1,6 @@
 # spacex_missions
 
-In order to run this project, run these commands in the root directory:
+In order to test this application, run these commands in the root directory:
 
  flutter pub get
  
